@@ -16,8 +16,8 @@ public class ColorsActivity extends AppCompatActivity {
         // Create a list of words
         ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word("red", "weṭeṭṭi",R.mipmap.color_red));
-        words.add(new Word("mustard yellow", "chiwiiṭә",R.mipmap.color_mustard_yellow));
-        words.add(new Word("dusty yellow", "ṭopiisә",R.mipmap.color_dusty_yellow));
+        words.add(new Word("mustard yellow", "chiwiiṭә", R.mipmap.color_dusty_yellow));
+        words.add(new Word("dusty yellow", "ṭopiisә", R.mipmap.color_mustard_yellow));
         words.add(new Word("green", "chokokki",R.mipmap.color_green));
         words.add(new Word("brown", "ṭakaakki",R.mipmap.color_brown));
         words.add(new Word("gray", "ṭopoppi",R.mipmap.color_gray));
