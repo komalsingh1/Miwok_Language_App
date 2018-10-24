@@ -28,7 +28,6 @@ public class FamilyActivity extends AppCompatActivity {
         words.add(new Word("older sister", "teṭe",R.mipmap.family_older_sister,R.raw.family_older_sister));
         words.add(new Word("younger sister", "kolliti",R.mipmap.family_younger_sister,R.raw.family_younger_sister));
         words.add(new Word("grandmother ", "ama",R.mipmap.family_grandmother,R.raw.family_grandmother));
-        words.add(new Word("grandfather", "paapa",R.mipmap.family_grandfather,R.raw.family_grandfather));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
